@@ -4,3 +4,11 @@
   border-bottom:1px solid #E5E5E5;
   display:none !important;
 }
+
+
+/* Modify text font-size and alignment */
+.google-visualization-table-table {
+	width:100%;
+	text-align:right;
+	font-size:12pt!important;
+}
